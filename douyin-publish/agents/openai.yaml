@@ -1,0 +1,4 @@
+interface:
+  display_name: "抖音发图文"
+  short_description: "上传图片+标题描述话题，发布抖音图文作品"
+  default_prompt: "Use $douyin-publish to post these images as a Douyin image post."

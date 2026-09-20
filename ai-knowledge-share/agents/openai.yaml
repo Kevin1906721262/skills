@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 知识分享"
+  short_description: "把 AI 工具/skill/知识写成人话，讲给身边的人听"
+  default_prompt: "Use $ai-knowledge-share to turn this AI tool into something I can share with the people around me."

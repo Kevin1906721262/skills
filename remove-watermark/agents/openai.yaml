@@ -1,0 +1,4 @@
+interface:
+  display_name: "去水印"
+  short_description: "去掉图片上的水印/角标：自动框选 + 调和填充重算，带残差指标验证是否真的无痕"
+  default_prompt: "Use $remove-watermark to remove the watermark from this image."

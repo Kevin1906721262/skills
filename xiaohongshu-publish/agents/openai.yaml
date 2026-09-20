@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书发图文笔记"
+  short_description: "文字配图生成卡片图并发布小红书图文笔记"
+  default_prompt: "Use $xiaohongshu-publish to turn this copy into a Xiaohongshu image note and publish it."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书评论找需求帖"
+  short_description: "搜小红书需求帖、逐条评论并记录发帖人昵称"
+  default_prompt: "用 $xiaohongshu-comment-leads 去小红书搜索配字幕相关的需求帖，评论 3 条并把发帖人昵称记录下来。"

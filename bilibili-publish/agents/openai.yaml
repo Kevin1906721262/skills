@@ -1,0 +1,4 @@
+interface:
+  display_name: "B站投稿视频"
+  short_description: "上传视频+封面标题标签简介，投稿到B站"
+  default_prompt: "Use $bilibili-publish to upload this video to Bilibili."

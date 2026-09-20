@@ -1,0 +1,4 @@
+interface:
+  display_name: "知乎发想法"
+  short_description: "上传图片+标题正文话题圈子，发布知乎图文想法"
+  default_prompt: "Use $zhihu-publish to post this content as a Zhihu pin."

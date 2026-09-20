@@ -1,0 +1,4 @@
+interface:
+  display_name: "文字转语音"
+  short_description: "把文字合成为 mp3 语音，可同时输出逐词对齐的字幕"
+  default_prompt: "把这段文字转成语音，同时给我逐词对齐的 SRT 字幕"

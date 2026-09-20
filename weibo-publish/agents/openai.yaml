@@ -1,0 +1,4 @@
+interface:
+  display_name: "微博发视频"
+  short_description: "上传视频+标题正文，发布到微博并核对"
+  default_prompt: "Use $weibo-publish to upload this video to 微博 with this title."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude Code Delegate"
+  short_description: "把任务交给本机 Claude Code CLI 并把回复取回"
+  default_prompt: "用 $claude-code-delegate 启动本机 claude，切到 pro 模型，问它「你好」并把回复原文给我。"

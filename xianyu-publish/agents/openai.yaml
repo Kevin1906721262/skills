@@ -1,0 +1,4 @@
+interface:
+  display_name: "闲鱼发闲置"
+  short_description: "上传图片+描述，发布闲鱼商品（分类固定「其他闲置」）"
+  default_prompt: "Use $xianyu-publish to list this item on Xianyu with this image and copy."

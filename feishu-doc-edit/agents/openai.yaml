@@ -1,0 +1,4 @@
+interface:
+  display_name: "飞书文档编辑"
+  short_description: "用浏览器读写飞书云文档:读全文、写入图文、按块改稿,不需要 API 凭证"
+  default_prompt: "Use $feishu-doc-edit to write an illustrated document into this Feishu wiki page."

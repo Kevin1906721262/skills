@@ -1,0 +1,6 @@
+interface:
+  display_name: "需求迭代全流程"
+  short_description: "从需求澄清到实现、单测、审查、推送与测试环境部署的端到端迭代编排"
+  default_prompt: "使用 $iteration-delivery 驱动这次需求迭代。"
+policy:
+  allow_implicit_invocation: false

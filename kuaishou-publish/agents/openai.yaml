@@ -1,0 +1,4 @@
+interface:
+  display_name: "快手发图文"
+  short_description: "上传图片+描述话题音乐，发布快手图文作品"
+  default_prompt: "Use $kuaishou-publish to post these images as a Kuaishou photo post."
